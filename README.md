@@ -23,6 +23,10 @@ In the following script a Dataframe is created with student information, which i
 
 This notebook focuses on the manipulation and analysis of datasets. It covers techniques for data cleaning, preprocessing and visualization.
 
+**6. Exploratory data analysis and machine learning models**
+
+In this notebook an exploratory data analysis is performed for the “Iris” data set. Machine learning models are also implemented to make observations and predictions on the data.
+
 
 
 
